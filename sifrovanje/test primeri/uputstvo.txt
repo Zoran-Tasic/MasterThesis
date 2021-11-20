@@ -1,0 +1,6 @@
+TEST.ZIP sadrzi nesifrovani komprimovani fajl.
+
+TEST10.ZIP sadrzi fajl sifrovan programom sifrovanje koriscenjem lozinke Matematika; 
+dobija se pokretanjem .bat fajla lozinka10.
+
+TEST10.ZIP se moze otvoriti koriscenjem programa desifrovanje ili bilo kojim drugim Windows dearhiverom 

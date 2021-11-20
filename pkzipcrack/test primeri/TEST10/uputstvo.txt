@@ -1,0 +1,6 @@
+TEST.ZIP sadrzi nesifrovani fajl.
+
+TEST10.ZIP sadrzi fajl sifrovan lozinkom Matematika.
+
+.bat fajlovi xxpoznatih_bajtova.bat pokrecu testiranje u kome se cita xx bajtova otvorenog teksta iz TEST10.ZIP
+i na osnovu njih pronalaze interni kljuc i lozinku. 

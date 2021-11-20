@@ -1,0 +1,1 @@
+pkzipcrack.exe TEST6.ZIP TEST.ZIP 1013

@@ -1,0 +1,1 @@
+pkzipcrack.exe TEST10.ZIP TEST.ZIP 63

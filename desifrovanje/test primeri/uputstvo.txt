@@ -1,0 +1,7 @@
+TEST7.ZIP sadrzi fajl sifrovan koriscenjem programa PKZIP uz pomoc lozinke KadJe13.
+
+TEST.ZIP sadrzi nesifrovan fajl dobijen koriscenjem programa desifrovanje uz pomoc lozinke KadJe13; 
+dobija se pokretanjem .bat fajla lozinka7.
+
+TEST.ZIP se moze otvoriti programom PKUNZIP ili bilo kojim drugim Windows dearhiverom.
+ 

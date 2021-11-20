@@ -1,0 +1,6 @@
+TEST.ZIP sadrzi nesifrovani fajl.
+
+TEST1.ZIP sadrzi fajl sifrovan lozinkom r.
+
+.bat fajlovi xxpoznatih_bajtova.bat pokrecu testiranje u kome se cita xx bajtova otvorenog teksta iz TEST1.ZIP
+i na osnovu njih pronalaei interni kljuc i lozinku. 
